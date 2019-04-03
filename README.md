@@ -5,6 +5,7 @@ Disclaimer: all credits to Jeremy Howard ;)
 
 ## Machine Learning course (2018)
 * [Notebook 1](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson1-rf.ipynb)
+* [Notebook 2](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson2-rf.ipynb)
 
 ## Notes on fastai framework
-* [Notebook 1](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/fastai-101.ipynb)
+* [fastai 101](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/fastai-101.ipynb)
