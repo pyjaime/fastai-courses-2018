@@ -1,7 +1,7 @@
 # fastai-courses
-Notebooks from Fast.ai courses with my own additions. You can find the original notebooks at [fastai repo](https://github.com/fastai/fastai/tree/master/courses).
+Notebooks from Fast.ai courses with my own additions. You can find the original notebooks at [fastai repo](https://github.com/fastai/fastai/tree/master/courses). You'll need fastai in order to run these.
 
-Disclaimer: all credits to Jeremy Howard ;)
+Disclaimer: all credits go to Jeremy Howard ;)
 
 ## Machine Learning course (2018)
 * [Notebook 1](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson1-rf.ipynb)
