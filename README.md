@@ -4,9 +4,9 @@ Notebooks from Fast.ai courses with my own additions. You can find the original 
 Disclaimer: all credits go to Jeremy Howard ;)
 
 ## Machine Learning course (2018)
-* [Notebook 1](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson1-rf.ipynb)
-* [Notebook 2](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson2-rf_interpretation.ipynb)
-* [Notebook 2](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson3-rf_foundations.ipynb)
+* [Notebook 1: Intro to Random Forests](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson1-rf.ipynb)
+* [Notebook 2: Random Forest interpretation](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson2-rf_interpretation.ipynb)
+* [Notebook 3: Random Forest from scratch](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/machine-learning-2018/lesson3-rf_foundations.ipynb)
 
 ## Notes on fastai framework
-* [fastai 101](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/fastai-101.ipynb)
+* [Fastai library 101](https://nbviewer.jupyter.org/github/pyjaime/fastai-courses/blob/master/fastai-101.ipynb)
